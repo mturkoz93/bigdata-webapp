@@ -1,9 +1,6 @@
-# bigdata-webapp
-I use big data technologies to do a web site.
-
 # Project Title
 
-One Paragraph of project description goes here
+I use big data technologies to do a web site.
 
 ## Getting Started
 
@@ -75,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mustafa Türköz** - *Initial work* - [PurpleBooth](https://github.com/mturkoz93)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
