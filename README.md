@@ -58,9 +58,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [NodeJS](http://www.google.com/) - The app developing platform
+* [ExpressJs](https://maven.apache.org/) - The web framework used
+* [MongoDB](https://rometools.github.io/rome/) - Used to store data
 
 ## Contributing
 
@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Mustafa Türköz** - *Initial work* - [PurpleBooth](https://github.com/mturkoz93)
+* **Mustafa Türköz** - *Initial work* - [MustafaTurkoz](https://github.com/mturkoz93)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
